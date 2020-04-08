@@ -1,0 +1,37 @@
+.burger-style{
+    border-color: white !important;
+    border: 2.2px solid white;
+    border-radius: 12px !important;
+}
+.btn-color{
+border: 2px solid rgba(255, 255, 255, 0.527);
+color: darkslategray;
+}
+.navbarcolor{
+    background: #7DE8D5 !important;
+}
+.first-column{
+ background: #7DE8D5;
+ color: #1D3631;
+}
+.second-column{
+    background: #1D3631;
+    color: white;
+    padding-top: 3rem;
+    padding-bottom: 6rem;
+}
+.card{
+    background: #7DE8D5;
+    color: #1D3631
+}
+.container-card{
+    z-index: 1;
+    position: relative;
+    top: -61px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.card-groupe{
+ border: 0.1rem solid #1D3631;
+border-radius: 0.3rem;
+}
