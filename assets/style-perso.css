@@ -13,7 +13,7 @@
     background: #7DE8D5 !important;
 }
 
-.first-column {
+.first-column, .page-footer {
     background: #7DE8D5;
     color: #1D3631;
 }
@@ -42,4 +42,12 @@
 .card-groupe {
     border: 0.1rem solid rgba(29, 54, 49, 0.11);
     border-radius: 0.3rem;
+}
+
+.page-footer{
+    font-size:larger
+}
+a{
+    color: #30586F;
+    ;
 }
